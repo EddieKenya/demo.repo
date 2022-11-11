@@ -1,4 +1,4 @@
-#First project
+# First project
 
-create a login user interface...corperating django and javascript
+create a login user interface...corperating django and javascript!
 
